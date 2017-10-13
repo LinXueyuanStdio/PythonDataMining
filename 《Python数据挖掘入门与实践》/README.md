@@ -18,8 +18,10 @@
 1. [近邻算法分类.ipynb](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/blob/master/%E3%80%8APython%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/1.%E8%BF%91%E9%82%BB%E7%AE%97%E6%B3%95%E5%88%86%E7%B1%BB.ipynb)
 2. [决策树预测获胜球队.ipynb](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/blob/master/%E3%80%8APython%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/2.%E5%86%B3%E7%AD%96%E6%A0%91%E9%A2%84%E6%B5%8B%E8%8E%B7%E8%83%9C%E7%90%83%E9%98%9F.ipynb)
 3. [亲和性分析推荐电影.ipynb](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/blob/master/%E3%80%8APython%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/3.%E4%BA%B2%E5%92%8C%E6%80%A7%E5%88%86%E6%9E%90%E6%8E%A8%E8%8D%90%E7%94%B5%E5%BD%B1.ipynb)
+4. [用转换器抽取特征.ipynb](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/blob/master/%E3%80%8APython%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/4.%E7%94%A8%E8%BD%AC%E6%8D%A2%E5%99%A8%E6%8A%BD%E5%8F%96%E7%89%B9%E5%BE%81.ipynb)
+5. [朴素贝叶斯进行社会媒体挖掘.ipynb](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/blob/master/%E3%80%8APython%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5%E3%80%8B/5.%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%BF%9B%E8%A1%8C%E7%A4%BE%E4%BC%9A%E5%AA%92%E4%BD%93%E6%8C%96%E6%8E%98.ipynb)
 
-# 学习过程中的问题记录
+# 问题解决记录
 
 0. [Python Tweepy 翻墙抓取Twitter信息](https://linxueyuanstdio.github.io/2017/10/python-proxy/)
 
