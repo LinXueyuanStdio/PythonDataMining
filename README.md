@@ -47,9 +47,9 @@ jupyter notebook # 启动笔记本
 
 
 
+## 免责声明
 
-
-
+本仓库没有英文原版的文件，只有网友翻译的中文版文件。中文版具体来源记不清了。如有问题可随时联系我删除相关文件。
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining?ref=badge_large)
