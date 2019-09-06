@@ -4,8 +4,8 @@
 
 在学院的书架上发现了一本不带脑子就能看懂的书《Python数据挖掘与实战》
 
-- `pdf`版的书在当前目录`./`下，分[黑白图版](https://github.com/LinXueyuanStdio/PythonDataMining/blob/master/Python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf)和[彩图版](https://github.com/LinXueyuanStdio/PythonDataMining/blob/master/Python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5_%E5%BD%A9%E5%9B%BE.pdf)
-  - 体积略大(8.8Mb)，谨慎点击，建议`clone`或`fork`
+- pdf 在当前目录`./`下，有 [黑白图中文版](https://github.com/LinXueyuanStdio/PythonDataMining/blob/master/Python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.pdf) 和 [彩色图表补充](https://github.com/LinXueyuanStdio/PythonDataMining/blob/master/Python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5_%E5%BD%A9%E5%9B%BE.pdf)
+  - pdf 体积略大(8.8Mb)，github 直接打开比较慢，建议`clone`或`fork`
 
 - 随书附带的代码在`./BOOK_CODE`文件夹下面，全英文
   - 原书有些数据集不包含在内，因为这些数据需要从其他网站上下载，而网站已经更新，书编写时的数据很难再找到
