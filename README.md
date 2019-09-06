@@ -1,5 +1,5 @@
-# PythonDataMining
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining?ref=badge_shield)  [在线浏览 [ 推荐 ]](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/tree/master/)
+# PythonDataMining [在线浏览 [ 推荐 ]](http://nbviewer.jupyter.org/github/LinXueyuanStdio/PythonDataMining/tree/master/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLinXueyuanStdio%2FPythonDataMining?ref=badge_shield)
 
 
 在学院的书架上发现了一本不带脑子就能看懂的书《Python数据挖掘与实战》
